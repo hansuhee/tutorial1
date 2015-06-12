@@ -1,2 +1,8 @@
-# tutorial1
-소셜 프로젝트를 위한 Gift-hub 
+# (1) Repositury에 관하여
+
+## 작성자
+@ezmis
+
+
+
+
